@@ -75,9 +75,11 @@ plugins:
 
 nav:
   - Home: index.md
-  - About: 
-    - Toolkit: works/Tool_Explanation.md
-    - Explanatory: works/Utility.md
+  - Features: 
+    - Analysis: Wrk_Features/Analysis.md
+    - Design: Wrk_Features/Design.md
+    - Utility: Wrk_Features/Utility.md
+
 
 extra:
   social:
