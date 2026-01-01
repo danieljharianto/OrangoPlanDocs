@@ -1,4 +1,4 @@
-site_name: OrangoPlan Documentation
+site_name: OrangoPlan 
 site_url: https://danieljansenh.github.io/OrangoPlan/
 copyright: Copyright © 2025 Daniel J Harianto
 
@@ -47,11 +47,11 @@ theme:
     - navigation.top
     - search.suggest
     - search.highlight
-    - content.code.copy
+    #- content.code.copy
     - content.code.select
 
   font:
-    text: Arial
+    text: IBM Plex Sans
   logo: assets/Logo.png
   favicon: assets/Logo.png
 
@@ -70,12 +70,15 @@ plugins:
   - search
 
 nav:
-  - Home: index.md
+  - Home:
+    - Introduction: Home/Intro.md
+    - Getting Started: Home/Getting_Started.md
+    - References: Home/References.md
   - Features: 
     - Analysis: Wrk_Features/Analysis.md
     - Design: Wrk_Features/Design.md
     - Utility: Wrk_Features/Utility.md
-  #- Examples: Example.md
+  - Examples: Example.md
 
 extra:
   social:
