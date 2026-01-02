@@ -72,8 +72,8 @@ theme:
 #   - search
 
 nav:
-  - Home:
-    - Introduction: Home/Intro.md
+  - Home: 
+    - Introduction: index.md
     - Getting Started: Home/Getting_Started.md
     - References: Home/References.md
   - Features: 

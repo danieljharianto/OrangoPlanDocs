@@ -5,10 +5,10 @@ hide:
 ---
 
 
- ![Alt text for the image](../../assets/Sample_03.png "Usage example") 
+ ![Alt text for the image](assets/Sample_03.png "Usage example") 
 
 
- ![Alt text for the image](../../assets/Sample_02.png "Usage example") 
+ ![Alt text for the image](assets/Sample_02.png "Usage example") 
 
 !!! pied-piper "Pied Piper"
 
@@ -29,5 +29,5 @@ hide:
 
 
 ## Authorship
-made by Daniel J Harianto @2025 Jakarta, Indonesia  
-Last updated at 2025/07/07
+made by Daniel J Harianto @2025 Cambridge, Massachusetts  
+Last updated at 2026/01/01
