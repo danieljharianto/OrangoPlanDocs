@@ -6,7 +6,16 @@ hide:
 
 These design tools allow designers to test and compare spatial, environmental, and performance criteria directly within parametric models. By integrating data-driven insights—such as accessibility, reachability or circulation patterns—into the design workflow. This enables architects, planners, and urban designers to move beyond intuition alone, creating spatial and urban strategies that are more efficient, resilient, and responsive to human and environmental needs.
 
+
+!!! pied-piper "Pied Piper"
+
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et
+    euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo
+    purus auctor massa, nec semper lorem quam in massa.
+
 ### File I/O
+
+These design tools allow designers to test and compare spatial, environmental, and performance criteria directly within parametric models. By integrating data-driven insights—such as accessibility, reachability or circulation patterns—into the design workflow. This enables architects, planners, and urban designers to move beyond intuition alone, creating spatial and urban strategies that are more efficient, resilient, and responsive to human and environmental needs
 
 <table style="width:100%; border-collapse: collapse; font-family: Arial, sans-serif;">
   <thead>
@@ -128,6 +137,8 @@ These design tools allow designers to test and compare spatial, environmental, a
 
 ### Data Preview & Manipulation
 
+These design tools allow designers to test and compare spatial, environmental, and performance criteria directly within parametric models. By integrating data-driven insights—such as accessibility, reachability or circulation patterns—into the design workflow. This enables architects, planners, and urban designers to move beyond intuition alone, creating spatial and urban strategies that are more efficient, resilient, and responsive to human and environmental needs
+
 <table style="width:100%; border-collapse: collapse; font-family: Arial, sans-serif;">
   <thead>
     <tr style="background-color: #e8e8e8;">
@@ -172,7 +183,7 @@ These design tools allow designers to test and compare spatial, environmental, a
     <tr>
       <td rowspan="4" style="text-align:center; padding:12px; border:1px solid #ddd; vertical-align:middle;">
         <div style="display:flex; flex-direction:column; align-items:center;">
-          <img src="../../assets/Utility/U_Column_Add.png" alt="Column Add" style="height:25px; margin-bottom:5px;">
+          <img src="../../assets/Utility/U_Add Column.png" alt="Column Add" style="height:25px; margin-bottom:5px;">
           <span>Column Add</span>
         </div>
       </td>
@@ -213,7 +224,7 @@ These design tools allow designers to test and compare spatial, environmental, a
     <tr>
       <td rowspan="3" style="text-align:center; padding:12px; border:1px solid #ddd; vertical-align:middle;">
         <div style="display:flex; flex-direction:column; align-items:center;">
-          <img src="../../assets/Utility/U_Column_Remove.png" alt="Column Remove" style="height:25px; margin-bottom:5px;">
+          <img src="../../assets/Utility/U_Remove Column.png" alt="Column Remove" style="height:25px; margin-bottom:5px;">
           <span>Column Remove</span>
         </div>
       </td>
@@ -305,7 +316,7 @@ These design tools allow designers to test and compare spatial, environmental, a
     <tr>
       <td rowspan="3" style="text-align:center; padding:12px; border:1px solid #ddd; vertical-align:middle;">
         <div style="display:flex; flex-direction:column; align-items:center;">
-          <img src="../../assets/Utility/U_Interval_Classifier.png" alt="Interval Classifier" style="height:25px; margin-bottom:5px;">
+          <img src="../../assets/Utility/U_Interval Classifier.png" alt="Interval Classifier" style="height:25px; margin-bottom:5px;">
           <span>Interval Classifier</span>
         </div>
       </td>
@@ -337,6 +348,8 @@ These design tools allow designers to test and compare spatial, environmental, a
 </table>
 
 ### Rhino Reference
+
+These design tools allow designers to test and compare spatial, environmental, and performance criteria directly within parametric models. By integrating data-driven insights—such as accessibility, reachability or circulation patterns—into the design workflow. This enables architects, planners, and urban designers to move beyond intuition alone, creating spatial and urban strategies that are more efficient, resilient, and responsive to human and environmental needs
 
 <table style="width:100%; border-collapse: collapse; font-family: Arial, sans-serif;">
   <thead>
@@ -429,7 +442,7 @@ These design tools allow designers to test and compare spatial, environmental, a
     <tr>
       <td rowspan="3" style="text-align:center; padding:12px; border:1px solid #ddd; vertical-align:middle;">
         <div style="display:flex; flex-direction:column; align-items:center;">
-          <img src="../../assets/Utility/U_Match_List_Geo.png" alt="Match List Geo" style="height:25px; margin-bottom:5px;">
+          <img src="../../assets/Utility/U_Match_List_Geometry.png" alt="Match List Geo" style="height:25px; margin-bottom:5px;">
           <span>Match List Geo</span>
         </div>
       </td>
@@ -494,6 +507,8 @@ These design tools allow designers to test and compare spatial, environmental, a
 </table>
 
 ### Object Attributes
+
+These design tools allow designers to test and compare spatial, environmental, and performance criteria directly within parametric models. By integrating data-driven insights—such as accessibility, reachability or circulation patterns—into the design workflow. This enables architects, planners, and urban designers to move beyond intuition alone, creating spatial and urban strategies that are more efficient, resilient, and responsive to human and environmental needs
 
 <table style="width:100%; border-collapse: collapse; font-family: Arial, sans-serif;">
   <thead>
@@ -569,8 +584,3 @@ These design tools allow designers to test and compare spatial, environmental, a
   </tbody>
 </table>
 
-
-
-
-
-The show's format consists of a combination of commercial television production elements and techniques which have evolved to reflect changes in American culture and audiences' viewing habits. It was the first children's TV show to use educational goals and a curriculum to shape its content, and the first show whose educational effects were formally studied. Its format and content have undergone significant changes over the years to reflect changes to its curriculum.

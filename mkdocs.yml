@@ -53,7 +53,7 @@ theme:
     - content.code.select
 
   font:
-    text: IBM Plex Sans
+    text: Inter
   logo: assets/Logo.png
   favicon: assets/Logo.png
 

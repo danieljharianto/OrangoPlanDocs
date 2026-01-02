@@ -30,7 +30,7 @@ These design tools allow designers to test and compare spatial, environmental, a
     <tr>
       <td rowspan="3" style="text-align:center; padding:12px; border:1px solid #ddd; vertical-align:middle;">
         <div style="display:flex; flex-direction:column; align-items:center;">
-          <img src="../../assets/Design/D_Road_Offset_Tool.png" alt="Road Offset Tool" style="height:25px; margin-bottom:5px;">
+          <img src="../../assets/Design/D_Offset_Road.png" alt="Road Offset Tool" style="height:25px; margin-bottom:5px;">
           <span>Offset Tool</span>
         </div>
       </td>
@@ -63,7 +63,7 @@ These design tools allow designers to test and compare spatial, environmental, a
     <tr>
       <td rowspan="4" style="text-align:center; padding:12px; border:1px solid #ddd; vertical-align:middle;">
         <div style="display:flex; flex-direction:column; align-items:center;">
-          <img src="../../assets/Design/D_Road_Chamfer_Tool.png" alt="Road Chamfer Tool" style="height:25px; margin-bottom:5px;">
+          <img src="../../assets/Design/D_Road_Chamfer.png" alt="Road Chamfer Tool" style="height:25px; margin-bottom:5px;">
           <span>Chamfer Tool</span>
         </div>
       </td>
@@ -104,7 +104,7 @@ These design tools allow designers to test and compare spatial, environmental, a
     <tr>
       <td rowspan="4" style="text-align:center; padding:12px; border:1px solid #ddd; vertical-align:middle;">
         <div style="display:flex; flex-direction:column; align-items:center;">
-          <img src="../../assets/Design/D_Road_Fillet_Tool.png" alt="Road Fillet Tool" style="height:25px; margin-bottom:5px;">
+          <img src="../../assets/Design/D_Road_Fillet.png" alt="Road Fillet Tool" style="height:25px; margin-bottom:5px;">
           <span>Fillet Tool</span>
         </div>
       </td>
@@ -240,7 +240,7 @@ These design tools allow designers to test and compare spatial, environmental, a
     <tr>
       <td rowspan="3" style="text-align:center; padding:12px; border:1px solid #ddd; vertical-align:middle;">
         <div style="display:flex; flex-direction:column; align-items:center;">
-          <img src="../../assets/Design/D_Recursive_Split.png" alt="Recursive Split" style="height:25px; margin-bottom:5px;">
+          <img src="../../assets/Design/D_Custom_Recursive_Split.png" alt="Recursive Split" style="height:25px; margin-bottom:5px;">
           <span>Recursive Split</span>
         </div>
       </td>

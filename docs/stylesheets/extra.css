@@ -24,6 +24,8 @@
     font-weight: 600;
     color: var(--md-default-fg-color--hl);
     background-color: var(--md-default-bg-color--hl);
+    margin-bottom: 0.5rem !important;  /* Reduce from default */
+    margin-top: 0.5rem !important;
 }
 
 .md-typeset h3 {    
@@ -34,26 +36,27 @@
 }
 
 .md-typeset h4 {
-    font-size: 1.25em;
+    font-size: 1.5em;
     font-weight: 300;
     background-color: var(--md-default-bg-color--hl);
 }
 
 .md-typeset h5 {
-    font-size: 1.2em;
+    font-size: 1.5em;
     font-weight: 300;
     color: var(--md-primary-fg-color--dark);
     text-transform: none;
+    line-height: 1.8;
 }
 
 .md-typeset {
-    font-size: 1.2em;
+    font-size: 1.3em;
     font-weight: 100;
     line-height: 1.2;
 }
 
 .md-typeset mark {
-    font-size: 0.5em;
+    font-size: 1.3em;
     font-weight: 200;
     background-color: var(--md-default-bg-color--hl);
 }
